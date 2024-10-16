@@ -1,1 +1,2 @@
-hello!
+## bio
+Hello! I'm [Holly Zijderveld](https://hollyz1jderveld.gothub.io), and I'm an anthropologist enrolled in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at [Leiden University](https://en.wikipedia.org/wiki/Leiden_University) in the Netherlands. I am currently planning an ethnographic research project into the All Yarns are Beautiful (AYAB) project. You can see more about my specific research interests below! I am a long-time knitter, and growingly interested technology and the history of technology.

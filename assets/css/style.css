@@ -1,4 +1,7 @@
 h1 {
     font-size: 30px;
 }
-]
+
+.column {
+    width: 50%;
+}

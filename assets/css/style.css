@@ -2,6 +2,14 @@ h1 {
     font-size: 30px;
 }
 
+h2 {
+    color: blueviolet;
+}
+
 .column {
     width: 50%;
+}
+
+body {
+    background-color: aquamarine;
 }

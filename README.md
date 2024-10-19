@@ -2,7 +2,7 @@
 ## bio
 Hello! I'm [Holly Zijderveld](https://hollyz1jderveld.gothub.io), and I'm an anthropologist enrolled in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at [Leiden University](https://en.wikipedia.org/wiki/Leiden_University) in the Netherlands. I am currently planning an ethnographic research project into the All Yarns are Beautiful (AYAB) project. You can see more about my specific research interests below! I am an [experienced hand-knitter](https://www.ravelry.com/people/Midnight4225) who is getting started with machine knitting, and growingly interested technology and the history of technology.
 
-![Me, having just graduated from Leiden University.](https://cdn.some.pics/holly/670d2806c2332.jpg)
+<img src="https://cdn.some.pics/holly/670d2806c2332.jpg" alt="Holly, having just graduated from Leiden University." width="200"/>
 
 ## research interests
 I am really interested in how developers *and* users of AYAB interact with their knitting machines and the AYAB technology. If you're a **developer in AYAB** and/or you **use AYAB with your knitting machine**, I would love to speak with you about it! I'm interested in users/developers from all over the world!

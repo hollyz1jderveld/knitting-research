@@ -25,6 +25,6 @@ I am also currently planning my fieldwork period, which runs from 1st January to
 ## privacy/ethics disclaimer
 All information shared with me in this project is confidential and will be handled anonymously, unless otherwise explicitly stated. All photographs will be subject to specific consent before shared. You have the right to retract any information shared with me from the research project, even long after you say it. All information will be stored locally off the cloud, or on carefully guarded paper. I will only collect your data with your specific informed consent.
 
-If you have any questions about data privacy, feel free to ask before we start talking (or at any point!). 
+If you have any questions about data privacy, feel  free to ask before we start talking (or at any point!). 
 
-**Last updated: 31/10/2024, 10:31 Central European Time**
+**Last updated: 30/12/2024, 19:10 Grenwich Mean Time**

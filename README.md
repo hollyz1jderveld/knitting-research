@@ -1,6 +1,6 @@
 # Anthropological project
 
-<img align="right" src="https://cdn.some.pics/holly/6772ed0f6ee95.jpg" alt="Holly, at a selfie taking station at the National Museum of Computing, Bletchley." width="200"/>
+<img align="right" src="https://cdn.some.pics/holly/6772ed0f6ee95.jpg" alt="Holly, at a selfie taking station at the National Museum of Computing, Bletchley." width="400"/>
 
 ## bio
 Hello! I'm [Holly Zijderveld](https://hollyz1jderveld.github.io), and I'm an anthropologist enrolled in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at [Leiden University](https://en.wikipedia.org/wiki/Leiden_University) in the Netherlands. I am currently planning an ethnographic research project into the All Yarns are Beautiful (AYAB) project. You can see more about my specific research interests below! I am a [pretty experienced hand-knitter](https://www.ravelry.com/people/Midnight4225) who is getting started with machine knitting, and growingly interested technology and the history of technology.
@@ -27,4 +27,4 @@ All information shared with me in this project is confidential and will be handl
 
 If you have any questions about data privacy, feel  free to ask before we start talking (or at any point!). 
 
-**Last updated: 31/12/2024, 09:34 Grenwich Mean Time**
+**Last updated: 31/12/2024, 09:35 Grenwich Mean Time**

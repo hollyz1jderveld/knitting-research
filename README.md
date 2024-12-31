@@ -18,6 +18,8 @@ If you are a user/developer of AYAB and you'd like to speak to me about my resea
 If you have questions about me & want to check certain things about the project, you can email **my supervisor**, [Elsa Charlety](https://www.universiteitleiden.nl/en/staffmembers/elsa-charlety#tab-1) from the Institute of Cultural Anthropology and Development Sociology at Leiden University.
 
 ## current status of the project
+~~initial planning~~ | ~~research proposal~~ | **fieldwork** | data processing | final writing | sharing
+
 I am currently in the **fieldwork** phase of the research! This will extend until 31st March. I am looking to talk to users & developers of AYAB in this time. 
 
 I will be in the San Francisco Bay Area in Feburary, and I will be in Berlin for some of March. If you are based in any of these areas and use/develop AYAB, then please let me know! If not, lets talk online.

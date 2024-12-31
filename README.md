@@ -18,13 +18,13 @@ If you are a user/developer of AYAB and you'd like to speak to me about my resea
 If you have questions about me & want to check certain things about the project, you can email **my supervisor**, [Elsa Charlety](https://www.universiteitleiden.nl/en/staffmembers/elsa-charlety#tab-1) from the Institute of Cultural Anthropology and Development Sociology at Leiden University.
 
 ## current status of the project
-Currently, I am in the **research proposal** phase of the project. In this phase, I am interested in hearing from people who use/develop AYAB, and are interested in talking to me!
+I am currently in the **fieldwork** phase of the research! This will extend until 31st March. I am looking to talk to users & developers of AYAB in this time. 
 
-I am also currently planning my fieldwork period, which runs from 1st January to 31st March. I will be spending some time in San Francisco/the Bay Area, and the rest of my time will be spent in Western Europe. 
+I will be in the San Francisco Bay Area in Feburary, and I will be in Berlin for some of March. If you are based in any of these areas and use/develop AYAB, then please let me know! If not, lets talk online.
 
 ## privacy/ethics disclaimer
 All information shared with me in this project is confidential and will be handled anonymously, unless otherwise explicitly stated. All photographs will be subject to specific consent before shared. You have the right to retract any information shared with me from the research project, even long after you say it. All information will be stored locally off the cloud, or on carefully guarded paper. I will only collect your data with your specific informed consent.
 
 If you have any questions about data privacy, feel  free to ask before we start talking (or at any point!). 
 
-**Last updated: 30/12/2024, 19:10 Grenwich Mean Time**
+**Last updated: 31/12/2024, 09:34 Grenwich Mean Time**

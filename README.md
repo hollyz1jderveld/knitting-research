@@ -2,6 +2,14 @@
 
 <img align="right" src="https://cdn.some.pics/holly/6772ed0f6ee95.jpg" alt="Holly, at a selfie taking station at the National Museum of Computing, Bletchley." width="400"/>
 
+The below serves as a record of the website I made to support my MSc research with the [AYAB project](https://ayab-knitting.com), in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at Leiden University. The project finished in the summer of 2025, but I am still writing about the research!
+
+You can download and read the finished thesis [here, through the Leiden University thesis repository](https://studenttheses.universiteitleiden.nl/handle/1887/4257969?solr_nav[id]=b0fa7b67c2d253d533f5&solr_nav[page]=0&solr_nav[offset]=1). The thesis is completely open access.
+
+I presented the research at SIEF2025 (the conference of the International Society for Ethnology and Folklore), under the panel [Transmitting the unwritten - unwriting the transmission](https://www.siefhome.org/congresses/sief2025/programme#16116) in May 2025. My paper was called 'Crafting machines and crafting the machine: technology in and as craft.' If you'd like, you can email me (hollyzijderveld at fastmail dot com) and I can send you the paper, but it is basically all in my thesis anyways.
+
+I wrote a short summary of my concept of 'technological craft' for the bulletin [almanac.sh](https://publications.servus.at/2026-almanac.sh/almanac.html#technological-craft).
+
 ## bio
 Hello! I'm [Holly Zijderveld](https://hollyz1jderveld.github.io), and I'm an anthropologist enrolled in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at [Leiden University](https://en.wikipedia.org/wiki/Leiden_University) in the Netherlands. I am currently planning an ethnographic research project into the All Yarns are Beautiful (AYAB) project. You can see more about my specific research interests below! I am a [pretty experienced hand-knitter](https://www.ravelry.com/people/Midnight4225) who is getting started with machine knitting, and growingly interested in technology and its history.
 

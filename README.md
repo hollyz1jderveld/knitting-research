@@ -34,5 +34,3 @@ I am currently in the **sharing** phase of the research! My time in the Master's
 All information shared with me in this project is confidential and will be handled anonymously, unless otherwise explicitly stated. All photographs will be subject to specific consent before shared. You have the right to retract any information shared with me from the research project, even long after you say it. All information will be stored locally off the cloud, or on carefully guarded paper. I will only collect your data with your specific informed consent.
 
 If you have any questions about data privacy, feel  free to ask before we start talking (or at any point!). 
-
-**Last updated: 10/11/2025, 13:25 Central European Time**

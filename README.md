@@ -1,7 +1,5 @@
 # Knitted binaries
 
-<img align="right" src="https://cdn.some.pics/holly/6772ed0f6ee95.jpg" alt="Holly, at a selfie taking station at the National Museum of Computing, Bletchley." width="400"/>
-
 The below serves as a record of the website I made to support my MSc research with the [AYAB project](https://ayab-knitting.com), in the [MSc program Global Ethnography](https://www.universiteitleiden.nl/en/education/study-programmes/master/cultural-anthropology-and-development-sociology/global-ethnography) at Leiden University. The project finished in the summer of 2025, but I am still writing about the research!
 
 You can download and read the finished thesis [here, through the Leiden University thesis repository](https://studenttheses.universiteitleiden.nl/handle/1887/4257969?solr_nav[id]=b0fa7b67c2d253d533f5&solr_nav[page]=0&solr_nav[offset]=1). The thesis is completely open access.

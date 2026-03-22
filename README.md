@@ -1,4 +1,4 @@
-# Anthropological project
+# Knitted binaries
 
 <img align="right" src="https://cdn.some.pics/holly/6772ed0f6ee95.jpg" alt="Holly, at a selfie taking station at the National Museum of Computing, Bletchley." width="400"/>
 
